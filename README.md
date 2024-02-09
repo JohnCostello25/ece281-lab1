@@ -2,6 +2,7 @@
 
 VHDL DEMO VIDEO-> https://share.icloud.com/photos/029D19RM2NSyGMmPpRJOHtpRA
 
+Documentation Statement: Makayla Freeman helped me understand and debug my code on why my test cases were failing due to using too many numbers (ultimately I switched from hex to binary).
 
 VHDL template for ECE 281 [Lab 1](https://usafa-ece.github.io/ece281-book/lab/lab1.html)
 
